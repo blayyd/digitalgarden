@@ -9,10 +9,6 @@ This section states the fundamental problems of introductory applied linear alge
 > - Know the 4 fundamental problems
 > - Find at least 3 major application areas where these problems show up
 
-## To-Do (🧮 Math Content)
-- [x] Complete notes ✅ 2024-04-02
-- [x] Complete lesson quiz ✅ 2024-04-02
-
 ---
 # Notes
 
