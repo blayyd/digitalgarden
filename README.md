@@ -3,8 +3,10 @@ This is my current setup of publishing my learning portfolio written in Obsidian
 You can find my notes at https://blayyd.xyz.
 
 ## ⚠ In Progress
-- Linear Algebra Notes
+- [ ] Linear Algebra Notes
 
 ## 🔮 To be Added
-- Multivariable Calculus Notes
-- C++ Notes
+- [ ] Multivariable Calculus Notes
+- [ ] C++ Notes
+- [ ] Metalearning Notes
+  - [ ] Reading list
