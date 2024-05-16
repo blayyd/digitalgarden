@@ -5,11 +5,11 @@
 # 10 Matrix-Vector Multiplication
 The term *matrix-vector multiplication* is shorthand for one of two different operations:
 1. Matrix-column-vector multiplication: Multiply a matrix $A \in \mathbb{R}^{m \times n}$ on the right by a [[Linear Algebra/03 Vector Modeling/3.1 Column Vector\|3.1 Column Vector]] $\vec{x} \in \mathbb{R}^{n \times 1}$ to produce to a column vector
-   $$
+$$
 A \vec{x} = \vec{b} \in \mathbb{R}^{m \times 1}
 $$
 2. Row-vector-matrix multiplication: Multiply a matrix $A \in \mathbb{R}^{m \times n}$ on the left by a row vector $\vec{x}^{T}$ where $\vec{x} \in \mathbb{R}^{ 1 \times n}$ to produce a row vector
-   $$
+$$
 \vec{x}^{T} A = \vec{b} \in \mathbb{R}^{1 \times n}
 $$
 
@@ -20,6 +20,7 @@ $$
 
 
 ---
+
 # Notes
 
 - [[Linear Algebra/10 Matrix-Vector Multiplication/10.1 Matrix-Column-Vector Multiplication via Linear Combinations\|10.1 Matrix-Column-Vector Multiplication via Linear Combinations]]
