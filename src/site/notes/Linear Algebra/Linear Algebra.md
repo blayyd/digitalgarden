@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linear-algebra/linear-algebra/","tags":["Project/Landing","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/linear-algebra/linear-algebra/","tags":["Project/Landing","gardenEntry"]}
 ---
 
 # Project Overview
