@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linear-algebra/00-major-problems-in-applied-linear-algebra/the-three-types-of-solutions-to-general-linear-systems/","tags":["Type/Proposition","Topic/Linear_Algebra"]}
+{"date created":"Monday, April 1st 2024, 10:32:48 pm","date modified":"Thursday, April 18th 2024, 8:01:05 pm","time spent":"16 min","tags":["Type/Proposition","Topic/Linear_Algebra"],"links":"[[00 Major Problems in Applied Linear Algebra]]","dg-publish":true,"permalink":"/linear-algebra/00-major-problems-in-applied-linear-algebra/the-three-types-of-solutions-to-general-linear-systems/","dgPassFrontmatter":true}
 ---
 
 Types: *N/A*
