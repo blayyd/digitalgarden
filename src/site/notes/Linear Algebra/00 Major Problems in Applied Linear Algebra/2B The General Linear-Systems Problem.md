@@ -1,5 +1,5 @@
 ---
-{"date created":"Monday, April 1st 2024, 9:50:15 pm","date modified":"Wednesday, April 3rd 2024, 8:10:52 pm","time spent":"15 min","tags":["Type/Definition","Topic/Linear_Algebra"],"links":"[[00 Major Problems in Applied Linear Algebra]]","dg-publish":true,"permalink":"/linear-algebra/00-major-problems-in-applied-linear-algebra/2-b-the-general-linear-systems-problem/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/linear-algebra/00-major-problems-in-applied-linear-algebra/2-b-the-general-linear-systems-problem/","tags":["Type/Definition","Topic/Linear_Algebra"]}
 ---
 
 Types: *N/A*
