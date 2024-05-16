@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linear-algebra/linear-algebra/","tags":["Project/Landing","gardenEntry"]}
+{"date created":"Thursday, March 21st 2024, 3:12:38 pm","date modified":"Tuesday, May 14th 2024, 10:38:07 pm","time spent":null,"tags":["Project/Landing","gardenEntry","gardenEntry"],"links":null,"project status":"Scheduled","time estimate":"103h 33m","difficulty":null,"coverUrl":"https://i.ytimg.com/vi/0WDhKCPtbng/maxresdefault.jpg","completion time":null,"dg-publish":true,"dg-home":true,"permalink":"/linear-algebra/linear-algebra/","dgPassFrontmatter":true}
 ---
 
 # Project Overview
