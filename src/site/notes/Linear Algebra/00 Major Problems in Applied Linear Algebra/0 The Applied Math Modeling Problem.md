@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linear-algebra/00-major-problems-in-applied-linear-algebra/0-the-applied-math-modeling-problem/","tags":["Type/Definition","Topic/Linear_Algebra"]}
+{"date created":"Monday, April 1st 2024, 1:14:57 pm","date modified":"Wednesday, April 3rd 2024, 7:44:22 pm","time spent":"30 min","tags":["Type/Definition","Topic/Linear_Algebra"],"links":"[[00 Major Problems in Applied Linear Algebra]]","dg-publish":true,"permalink":"/linear-algebra/00-major-problems-in-applied-linear-algebra/0-the-applied-math-modeling-problem/","dgPassFrontmatter":true}
 ---
 
 Types: [[Calculus 3/00 Intro to Multivariable Differentiation/0.3 Applied Math Modeling in Multivariable Calculus\|0.3 Applied Math Modeling in Multivariable Calculus]]
