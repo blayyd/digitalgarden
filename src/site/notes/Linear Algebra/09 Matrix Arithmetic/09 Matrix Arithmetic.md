@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linear-algebra/09-matrix-arithmetic/09-matrix-arithmetic/","tags":["MOC"]}
+{"date created":"Thursday, March 21st 2024, 9:39:09 pm","date modified":"Tuesday, May 14th 2024, 10:18:26 pm","tags":["MOC"],"links":null,"playlist":"https://www.youtube.com/playlist?list=PLSt7rwoPGTy1JuTPLGCWiVqMwQkEyEcjr","project status":"Done","time estimate":"6h","difficulty":3,"completion time":"8h 12m","dg-publish":true,"permalink":"/linear-algebra/09-matrix-arithmetic/09-matrix-arithmetic/","dgPassFrontmatter":true}
 ---
 
 # 09 Matrix Arithmetic
