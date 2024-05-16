@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linear-algebra/00-major-problems-in-applied-linear-algebra/1-the-matrix-vector-multiplication-problem/","tags":["Topic/Linear_Algebra","Type/Definition"]}
+{"date created":"Monday, April 1st 2024, 2:05:58 pm","date modified":"Friday, April 26th 2024, 5:12:34 pm","time spent":"21 min","tags":["Topic/Linear_Algebra","Type/Definition"],"links":"[[00 Major Problems in Applied Linear Algebra]]","lesson":null,"dg-publish":true,"mathlink":null,"permalink":"/linear-algebra/00-major-problems-in-applied-linear-algebra/1-the-matrix-vector-multiplication-problem/","dgPassFrontmatter":true}
 ---
 
 Types: *N/A*
