@@ -1,5 +1,5 @@
 ---
-{"date created":"Monday, April 1st 2024, 7:55:24 pm","date modified":"Friday, May 3rd 2024, 12:47:13 pm","time spent":"15 min","tags":["Topic/Linear_Algebra","Type/Definition"],"links":"[[00 Major Problems in Applied Linear Algebra]]","dg-publish":true,"permalink":"/linear-algebra/00-major-problems-in-applied-linear-algebra/2-a-the-nonsingular-linear-systems-problem/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/linear-algebra/00-major-problems-in-applied-linear-algebra/2-a-the-nonsingular-linear-systems-problem/","tags":["Topic/Linear_Algebra","Type/Definition"]}
 ---
 
 Types: *N/A*
