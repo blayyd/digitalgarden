@@ -1,5 +1,5 @@
 ---
-{"date created":"Thursday, March 21st 2024, 3:31:08 pm","date modified":"Wednesday, May 15th 2024, 2:05:01 pm","tags":["MOC"],"links":null,"playlist":"https://www.youtube.com/playlist?list=PLSt7rwoPGTy10qdPeuqzC-qn5zeHCYoSf","project status":"Done","time estimate":"4h","completion time":"3h 35m","difficulty":1,"dg-publish":true,"permalink":"/linear-algebra/00-major-problems-in-applied-linear-algebra/00-major-problems-in-applied-linear-algebra/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/linear-algebra/00-major-problems-in-applied-linear-algebra/00-major-problems-in-applied-linear-algebra/","tags":["MOC"]}
 ---
 
 # 00 Major Problems in Applied Linear Algebra
