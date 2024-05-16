@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linear-algebra/00-major-problems-in-applied-linear-algebra/3-the-full-rank-least-squares-problem/"}
+{"date created":"Monday, April 1st 2024, 9:30:09 pm","date modified":"Wednesday, April 3rd 2024, 8:10:55 pm","time spent":"25 min","tags":null,"links":"[[00 Major Problems in Applied Linear Algebra]]","dg-publish":true,"permalink":"/linear-algebra/00-major-problems-in-applied-linear-algebra/3-the-full-rank-least-squares-problem/","dgPassFrontmatter":true}
 ---
 
 Types: *N/A*
