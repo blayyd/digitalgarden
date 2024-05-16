@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linear-algebra/00-major-problems-in-applied-linear-algebra/4-the-standard-eigenvalue-problem/","tags":["Type/Definition","Topic/Linear_Algebra"]}
+{"date created":"Tuesday, April 2nd 2024, 9:10:00 am","date modified":"Thursday, April 18th 2024, 8:00:58 pm","time spent":"7 min","tags":["Type/Definition","Topic/Linear_Algebra"],"links":null,"dg-publish":true,"permalink":"/linear-algebra/00-major-problems-in-applied-linear-algebra/4-the-standard-eigenvalue-problem/","dgPassFrontmatter":true}
 ---
 
 Types: *N/A*
