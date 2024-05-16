@@ -1,5 +1,5 @@
 ---
-{"date created":"Thursday, March 21st 2024, 9:40:39 pm","date modified":"Wednesday, May 15th 2024, 4:51:56 pm","tags":["MOC"],"links":null,"playlist":"https://youtube.com/playlist?list=PLSt7rwoPGTy0W0tzVaqQh3RzlLVzTwW1s","project status":"Done","time estimate":"10h","difficulty":3,"completion time":"12h 31m","dg-publish":true,"permalink":"/linear-algebra/10-matrix-vector-multiplication/10-matrix-vector-multiplication/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/linear-algebra/10-matrix-vector-multiplication/10-matrix-vector-multiplication/","tags":["MOC"]}
 ---
 
 # 10 Matrix-Vector Multiplication
