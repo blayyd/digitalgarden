@@ -3,7 +3,7 @@
 ---
 
 # 00 Major Problems in Applied Linear Algebra
-This section states the fundamental problems of introductory applied linear algebra. These problems are very important in many STEM fields. By learning how to solve the fundamental problems of introductory linear algebra, we set the foundations for the study of these advanced problems. To make these connections explicit, we need to translate physical phenomena into useful mathematical concepts. By the end of this section, you should know how to be able to state the four fundamental problems, discuss the known and unknown quantities from each problem, and identify at least three major application areas that give rise to these problems.
+This section states the fundamental problems of introductory applied linear algebra. These problems are very important in many STEM fields. By learning how to solve the fundamental problems of introductory linear algebra, we set the foundations so that we may be able to solve these advanced problems. To make these connections explicit, we need to translate problems from the real world into useful mathematical concepts. 
 > [!tldr] 
 > - Learn how to use math to understand the world
 > - Know the 4 fundamental problems
