@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linear-algebra/linear-algebra/","tags":["Project/Landing","gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/linear-algebra/linear-algebra/","tags":["Project/Landing"]}
 ---
 
 # Project Overview
@@ -29,3 +29,10 @@ The goal of this project is to build a deep understanding of the six fundamental
 - **[[Linear Algebra/27 Standard Eigenvalue Problem/27 Standard Eigenvalue Problem\|27 Standard Eigenvalue Problem]]**
 - **[[Linear Algebra/28 Eigenvalue Theory/28 Eigenvalue Theory\|28 Eigenvalue Theory]]**
 
+
+
+---
+
+# Sources/References
+- [Jeff Anderson's Applied Linear Algebra Fundamentals Textbook](https://www.appliedlinearalgebra.com)
+- [3Blue1Brown's Essence of Linear Algebra](https://youtu.be/fNk_zzaMoSs?si=MCOCrcCIQZsC03ku)
