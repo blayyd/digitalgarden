@@ -18,10 +18,13 @@ This operation is a map between vector spaces
 $$
 \mathbb{R}^{m \times p} \times \mathbb{R}^{p \times n} \mapsto \mathbb{R}^{m \times n}.
 $$
+{ #c2fc8c}
+
 
 
 ---
 # Notes
+Lessons after 6 focus on applications of matrix-matrix multiplication.
 
 - [[Linear Algebra/11 Matrix-Matrix Multiplication/11.1 Anatomy of Matrix-Matrix Multiplication\|11.1 Anatomy of Matrix-Matrix Multiplication]]
 - [[Linear Algebra/11 Matrix-Matrix Multiplication/11.2 Matrix-Matrix Multiplication via Linear Combination of Columns\|11.2 Matrix-Matrix Multiplication via Linear Combination of Columns]]
@@ -29,6 +32,8 @@ $$
 - [[Linear Algebra/11 Matrix-Matrix Multiplication/11.3 Matrix-Matrix Multiplication via Linear Combination of Rows\|11.3 Matrix-Matrix Multiplication via Linear Combination of Rows]]
 - [[Linear Algebra/11 Matrix-Matrix Multiplication/11.3.1 Example of Matrix-Matrix Multiplication via Linear Combination of Rows\|11.3.1 Example of Matrix-Matrix Multiplication via Linear Combination of Rows]]
 - [[Linear Algebra/11 Matrix-Matrix Multiplication/11.4 Matrix-Matrix Multiplication via Dot Products\|11.4 Matrix-Matrix Multiplication via Dot Products]]
+- [[Linear Algebra/11 Matrix-Matrix Multiplication/11.4.1 Example of Matrix-Matrix Multiplication via Dot Products\|11.4.1 Example of Matrix-Matrix Multiplication via Dot Products]]
 - [[Linear Algebra/11 Matrix-Matrix Multiplication/11.5 Matrix-Matrix Multiplication via Outer Products\|11.5 Matrix-Matrix Multiplication via Outer Products]]
 - [[Linear Algebra/11 Matrix-Matrix Multiplication/11.6 Algebraic Properties of Matrix-Matrix Multiplication\|11.6 Algebraic Properties of Matrix-Matrix Multiplication]]
+- [[Linear Algebra/11 Matrix-Matrix Multiplication/11.7 Applications for Mass Spring Chain\|11.7 Applications for Mass Spring Chain]]
 
