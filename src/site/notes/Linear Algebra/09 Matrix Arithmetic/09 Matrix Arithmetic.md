@@ -26,6 +26,7 @@ This section focuses on the different operations used on matrices and some speci
 - [[Linear Algebra/09 Matrix Arithmetic/9.10.1 Transposition Matrix as Outer Product\|9.10.1 Transposition Matrix as Outer Product]]
 - [[Linear Algebra/09 Matrix Arithmetic/9.11 Givens Rotation\|9.11 Givens Rotation]]
 - [[Linear Algebra/09 Matrix Arithmetic/9.12 Gauss Transform\|9.12 Gauss Transform]]
+- [[Linear Algebra/09 Matrix Arithmetic/9.12.1 Example of Gauss Transform in Action\|9.12.1 Example of Gauss Transform in Action]]
 - [[Linear Algebra/09 Matrix Arithmetic/9.13 Transpose of a Matrix\|9.13 Transpose of a Matrix]]
 - [[Linear Algebra/09 Matrix Arithmetic/9.14 Algebraic Properties of Matrix Transposes\|9.14 Algebraic Properties of Matrix Transposes]]
 - [[Linear Algebra/09 Matrix Arithmetic/Lesson 9 Full Solutions\|Lesson 9 Full Solutions]]
