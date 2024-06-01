@@ -35,4 +35,3 @@ The goal of this project is to build a deep understanding of the six fundamental
 
 # Sources/References
 - [Jeff Anderson's Applied Linear Algebra Fundamentals Textbook](https://www.appliedlinearalgebra.com)
-- [3Blue1Brown's Essence of Linear Algebra](https://youtu.be/fNk_zzaMoSs?si=MCOCrcCIQZsC03ku)
