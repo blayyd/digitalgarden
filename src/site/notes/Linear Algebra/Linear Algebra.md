@@ -5,6 +5,9 @@
 # Project Overview
 The goal of this project is to build a deep understanding of the six fundamental problems of applied linear algebra. 
 
+## ⚠ Warning ⚠
+My notes were published using the Digital Garden Obsidian plugin, which unfortunately breaks a lot of my hand drawn diagrams and handwritten notes (the PDF files).
+
 # Map of Content
 
 - **[[Linear Algebra/00 Major Problems in Applied Linear Algebra/00 Major Problems in Applied Linear Algebra\|00 Major Problems in Applied Linear Algebra]]**
