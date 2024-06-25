@@ -28,6 +28,7 @@ The goal of this project is to build a deep understanding of the six fundamental
 - **[[Linear Algebra/18 Solution Sets for General-Linear Systems/18 Solution Sets for General-Linear Systems\|18 Solution Sets for General-Linear Systems]]**
 - **[[Linear Algebra/27 Standard Eigenvalue Problem/27 Standard Eigenvalue Problem\|27 Standard Eigenvalue Problem]]**
 - **[[Linear Algebra/28 Eigenvalue Theory/28 Eigenvalue Theory\|28 Eigenvalue Theory]]**
+- **[[Linear Algebra/LANA/LANA\|LANA]]**
 
 
 
