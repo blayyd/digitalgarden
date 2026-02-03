@@ -22,4 +22,6 @@ This section focuses on multiple features of matrix notation and categorizes pow
 - [[Linear Algebra/08 Anatomy of Matrices/8.13 Column Partition of a Matrix\|8.13 Column Partition of a Matrix]]
 - [[Linear Algebra/08 Anatomy of Matrices/8.14 Row Partition of a Matrix\|8.14 Row Partition of a Matrix]]
 - [[Linear Algebra/08 Anatomy of Matrices/8.15 Column and Row Partition of Identity Matrix\|8.15 Column and Row Partition of Identity Matrix]]
+- [[Linear Algebra/08 Anatomy of Matrices/8.14 Row Partition of a Matrix\|8.14 Row Partition of a Matrix]]
+- [[Linear Algebra/08 Anatomy of Matrices/8.15 Column and Row Partition of Identity Matrix\|8.15 Column and Row Partition of Identity Matrix]]
 

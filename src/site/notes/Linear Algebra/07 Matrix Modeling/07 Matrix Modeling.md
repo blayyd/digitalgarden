@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/linear-algebra/07-matrix-modeling/07-matrix-modeling/","tags":["MOC"]}
 ---
 
-[[Concept Diagram for Linear Algebraic Operations.canvas|Concept Diagram for Linear Algebraic Operations]]
+[[Linear Algebra/07 Matrix Modeling/Concept Diagram for Linear Algebraic Operations.canvas\|Concept Diagram for Linear Algebraic Operations]]
 # 07 Matrix Modeling
 Matrices are used to model things requiring multiple dimensions of data. Some applications that use matrices are:
 - classical mechanics

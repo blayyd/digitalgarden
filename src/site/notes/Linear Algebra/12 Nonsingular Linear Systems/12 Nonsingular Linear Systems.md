@@ -32,4 +32,5 @@ This section will cover how to solve [[Linear Algebra/00 Major Problems in Appli
 - [[Linear Algebra/12 Nonsingular Linear Systems/12.7 Fundamental Questions about Linear Systems\|12.7 Fundamental Questions about Linear Systems]]
 - [[Linear Algebra/12 Nonsingular Linear Systems/12.8 Solution Set to Square Linear-Systems Problem\|12.8 Solution Set to Square Linear-Systems Problem]]
 - [[Linear Algebra/12 Nonsingular Linear Systems/12.9 Determine Solution Validity for NLSP\|12.9 Determine Solution Validity for NLSP]]
+- [[Untitled\|Untitled]]
 

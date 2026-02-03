@@ -14,7 +14,7 @@
 - [ ] _How to Make People Like You in 90 Seconds or Less_ – Nichols Boothman (library)
 - [ ] _Decisive: How to Make Better Choices in Life and Work_ – Chip Heath & Dan Heath (library) 
 - [ ] _Moonwalking with Einstein: The Art and Science of Remembering Everything_ – Joshua Foer (library)
-- [ ] *Drive* - Daniel H. Pink
+- [ ] [_Peak: Secrets from the New Science of Expertise_](https://en.wikipedia.org/wiki/Peak:_Secrets_from_the_New_Science_of_Expertise) by [Anders Ericsson](https://en.wikipedia.org/wiki/K._Anders_Ericsson)
 
 # Books to Deep Read
 - [ ] So good they can't ignore you - Cal Newport ➕2024-04-25 #someday
@@ -26,20 +26,4 @@
 - [ ] learn how to take good book notes! #someday
 
 # Metalearning Notes
-
-- [[Metalearning/Best Practices for Math Learning\|Best Practices for Math Learning]]
-- **Book Reports**
-	- [[Metalearning/Book Reports/Ultralearning - Scott Young\|Ultralearning - Scott Young]]
-- [[Metalearning/How to Absorb Textbooks\|How to Absorb Textbooks]]
-- [[Metalearning/How to Do Well on Math Tests\|How to Do Well on Math Tests]]
-- [[Metalearning/Journal Prompts\|Journal Prompts]]
-- [[Metalearning/My Career Goal\|My Career Goal]]
-- [[Metalearning/My Values, Purpose, and Principles\|My Values, Purpose, and Principles]]
-- [[Metalearning/Problem Solving\|Problem Solving]]
-- [[Metalearning/Quotes\|Quotes]]
-- [[Metalearning/Reading Systems Key Questions\|Reading Systems Key Questions]]
-- [[Metalearning/Test Anxiety\|Test Anxiety]]
-- [[Metalearning/Two-Minute Rule\|Two-Minute Rule]]
-- [[Metalearning/UCLA EE 4 Year Plan\|UCLA EE 4 Year Plan]]
-- [[Metalearning/Using Horizons of Focus Model\|Using Horizons of Focus Model]]
-
+ End Waypoint %%
